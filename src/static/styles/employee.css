@@ -1,0 +1,18 @@
+.emp-detail-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 80px);
+}
+
+.emp-detail-card {
+  border: 1px solid rgba(0, 139, 208, 1);
+  width: 350px;
+  padding: 20px;
+  background: rgba(248,248,248,1);
+}
+
+.links-wrap {
+  display: flex;
+  justify-content: space-evenly;
+}

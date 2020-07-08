@@ -1,0 +1,23 @@
+.nav-wrapper {
+  background-color: rgba(34, 130, 179, 1);
+  color: #fff;
+  margin-bottom: 10px;
+  padding: 1rem;
+}
+
+.nav-wrapper a {
+  color: #fff;
+  font-size: 1rem;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-wrapper a i {
+  margin-right: 0.5rem;
+  font-size: 1.7rem;
+}

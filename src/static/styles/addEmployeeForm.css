@@ -1,0 +1,39 @@
+.emp-form-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 90px);
+  
+}
+
+.emp-form{
+  padding: 20px;
+  background: rgba(248,248,248,1);
+  border-radius: 5px;
+  width: 500px;
+  overflow: hidden;
+}
+
+.form-label{
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.emp-form-input{
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 100%;
+  box-sizing: border-box;
+  
+}
+
+.emp-form-submit{
+  padding: 12px 20px;
+  background: rgba(0, 139, 208, 1);
+  color: #fff;
+  display: block;
+  width:100%;
+  cursor: pointer;
+  border: none;
+  margin-top: 5px;
+}

@@ -1,0 +1,16 @@
+.emp-card{
+  border: 1px solid rgba(0,139,208,1);
+  margin-bottom: 30px;
+  width: 300px;
+}
+
+.emp-card h3{
+  margin: 10px;
+  text-align: center;
+}
+
+.card-links{
+display: flex;  
+justify-content: space-evenly;
+margin-top: 25px;
+}
